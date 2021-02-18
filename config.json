@@ -1,0 +1,11 @@
+{
+	"prefix": "!cast ",
+	"currency": {
+		"symbol": "$$",
+		"name": {
+			"singular": "Dinheiro",
+			"plural": "Dinheiros"
+		}
+	},
+	"discord_server": "https://discord.gg/xGWZfyA3TM"
+}
